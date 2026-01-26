@@ -14,23 +14,18 @@ function addTwoNumbers(l1: ListNode | null, l2: ListNode | null): ListNode | nul
     const head = new ListNode(0);
     let current = head;
     let carry = 0;
-    while (l1 !== null || l2 !== null) {
-        let x = l1 !== null ? l1.val : 0;
-        let y = l2 !== null ? l2.val : 0;
+    while (l1 || l2 || carry !== 0) {
+        let x = l1 ? l1.val : 0;
+        let y = l2 ? l2.val : 0;
 
         let sum = x + y + carry;
-        let digit = sum % 10;
         carry = Math.floor(sum / 10);
 
-        current.next = new ListNode(digit);
+        current.next = new ListNode(sum % 10);
         current = current.next;
 
         if (l1) l1 = l1.next;
         if (l2) l2 = l2.next;
     }
-
-    if (carry > 0) current.next = new ListNode(carry);
-
-
     return head.next;
 };
