@@ -11,17 +11,15 @@
  */
 
 function addTwoNumbers(l1: ListNode | null, l2: ListNode | null): ListNode | null {
-    const head = new ListNode();
+    const head = new ListNode(0);
     let current = head;
-
     let carry = 0;
+    while (l1 !== null || l2 !== null) {
+        let x = l1 !== null ? l1.val : 0;
+        let y = l2 !== null ? l2.val : 0;
 
-    while (l1 || l2) {
-        const x = l1 ? l1.val : 0;
-        const y = l2 ? l2.val : 0;
-
-        const sum = x + y + carry;
-        const digit = sum % 10;
+        let sum = x + y + carry;
+        let digit = sum % 10;
         carry = Math.floor(sum / 10);
 
         current.next = new ListNode(digit);
