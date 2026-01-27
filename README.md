@@ -52,6 +52,7 @@ To view a solution, navigate to the respective category folder or search by prob
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Hetari/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/Hetari/leetcode-solutions/tree/master/0009-palindrome-number) |
 ## Recursion
 |  |
 | ------- |
