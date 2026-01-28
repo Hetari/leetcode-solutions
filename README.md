@@ -44,6 +44,7 @@ To view a solution, navigate to the respective category folder or search by prob
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hetari/leetcode-solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Hetari/leetcode-solutions/tree/master/0013-roman-to-integer) |
 ## Linked List
 |  |
 | ------- |
@@ -53,8 +54,13 @@ To view a solution, navigate to the respective category folder or search by prob
 | ------- |
 | [0002-add-two-numbers](https://github.com/Hetari/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Hetari/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Hetari/leetcode-solutions/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Hetari/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Hetari/leetcode-solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
