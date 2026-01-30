@@ -40,6 +40,7 @@ To view a solution, navigate to the respective category folder or search by prob
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hetari/leetcode-solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Hetari/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,4 +64,9 @@ To view a solution, navigate to the respective category folder or search by prob
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Hetari/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Hetari/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Hetari/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
