@@ -65,8 +65,13 @@ To view a solution, navigate to the respective category folder or search by prob
 | ------- |
 | [0013-roman-to-integer](https://github.com/Hetari/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Hetari/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Hetari/leetcode-solutions/tree/master/0020-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Hetari/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Hetari/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
