@@ -41,6 +41,7 @@ To view a solution, navigate to the respective category folder or search by prob
 | ------- |
 | [0001-two-sum](https://github.com/Hetari/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Hetari/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Hetari/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,4 +77,8 @@ To view a solution, navigate to the respective category folder or search by prob
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hetari/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Hetari/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
