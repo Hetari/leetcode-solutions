@@ -1,14 +1,12 @@
 function removeDuplicates(nums: number[]): number {
-    const temp: Record<number, number> = {}
-    for (let i = 0; i < nums.length; i++) {
-        const n = nums[i]
-        if (temp[n] !== undefined) {
-            nums.splice(i, 1);
-            i = i - 1
-        }
-        else {
-            temp[n] = i
+    if (nums.length === 0) return 0;
+
+    let writeIndex = 1;
+    for (let readIndex = 1; readIndex < nums.length; readIndex++) {
+        if (nums[readIndex] !== nums[writeIndex - 1]) {
+            nums[writeIndex] = nums[readIndex];
+            writeIndex++; 
         }
     }
-    return nums.length
-};
+    return writeIndex; 
+}
